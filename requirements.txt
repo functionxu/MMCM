@@ -30,7 +30,7 @@ librosa
 ffmpeg
 easydict
 webp
-mediapipe==0.10.3
+mediapipe==0.10.5
 cython==3.0.2
 easydict
 gdown
